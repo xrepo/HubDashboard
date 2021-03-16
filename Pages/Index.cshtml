@@ -1,0 +1,53 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Hub Dashboard";
+    string[] TableHeaders = new string[] {"Warehouse"
+                        ,"Not Processed"
+                        ,"On Hold"
+                        ,"Awaiting Stock"
+                        ,"Ready to Ship"
+                        ,"Shipped"
+                        ,"Cancelled"
+                        ,"Total"
+    };
+}
+
+
+<h4>@DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")</h4>
+
+<div class="table">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                @{
+                    foreach (var head in TableHeaders)
+                    {
+                        <th>
+                            @head
+                        </th>
+                    }
+                }
+            </tr>
+
+        </thead>
+
+        <tbody>
+            @{
+                    foreach (var so in Model.Sales)
+                    {
+                        <tr>
+                            <td>@so.Warehouse</td>
+                            <td><a asp-page="OrderDetail" asp-route-warehouse=@so.Warehouse asp-route-status="notprocessed"> @so.NotProcessed </a></td>
+                            <td><a asp-page="OrderDetail" asp-route-warehouse=@so.Warehouse asp-route-status="hold"> @so.Hold </a></td>
+                            <td><a asp-page="OrderDetail" asp-route-warehouse=@so.Warehouse asp-route-status="awaitingstock"> @so.AwaitingStock </a></td>
+                            <td><a asp-page="OrderDetail" asp-route-warehouse=@so.Warehouse asp-route-status="ready"> @so.ReadyToShip </a></td>
+                            <td><a asp-page="OrderDetail" asp-route-warehouse=@so.Warehouse asp-route-status="shipped"> @so.Shipped </a></td>
+                            <td><a asp-page="OrderDetail" asp-route-warehouse=@so.Warehouse asp-route-status="cancelled"> @so.Cancelled </a></td>
+                            <td><a asp-page="OrderDetail" asp-route-warehouse=@so.Warehouse asp-route-status="all"> @so.Total </a></td>
+                        </tr>
+                    }
+            }
+        </tbody>
+    </table>
+</div>

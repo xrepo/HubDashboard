@@ -1,0 +1,49 @@
+﻿@page
+@model SequelDashboardWeb.Pages.OrderDetailModel
+@{
+    ViewData["Title"] = "Order Detail";
+    string[] TableHeaders = new string[] {"Order Ref"
+                        ,"Order Date"
+                        ,"Customer Ref"
+                        ,"Customer Name"
+                        ,"Status"
+                        ,"Shipped Date"
+                        ,"Tracking Number"
+    };
+}
+
+<a asp-page="Index">Back to Dashboard</a>
+
+    <div class="table">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    @{
+                        foreach (var head in TableHeaders)
+                        {
+                            <th>
+                                @head
+                            </th>
+                        }
+                    }
+                </tr>
+
+            </thead>
+
+            <tbody>
+                @{
+                    foreach (var so in Model.SalesOrders)
+                    {
+                                <tr>
+                                    <td>@so.OrderRef</td>
+                                    <td>@so.OrderDate</td>
+                                    <td>@so.CustomerRef</td>
+                                    <td>@so.CustomerName</td>
+                                    <td>@so.OrderStatus</td>
+                                    <td>@so.ShippedDate</td>
+                                    <td>@so.TrackingNumber</td>
+                                </tr>
+                    }
+                }
+            </tbody>
+        </table>
