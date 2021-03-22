@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Expansys\\Web Projects\\SequelDashboardWeb\\SequelDashboardWeb.csproj": {}
+    "D:\\_JordacheWD\\_WORK\\_LUCRARI\\__EXPANSYS\\_Projects\\_HubDashboard\\SequelDashboardWeb.csproj": {}
   },
   "projects": {
-    "C:\\Expansys\\Web Projects\\SequelDashboardWeb\\SequelDashboardWeb.csproj": {
+    "D:\\_JordacheWD\\_WORK\\_LUCRARI\\__EXPANSYS\\_Projects\\_HubDashboard\\SequelDashboardWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Expansys\\Web Projects\\SequelDashboardWeb\\SequelDashboardWeb.csproj",
+        "projectUniqueName": "D:\\_JordacheWD\\_WORK\\_LUCRARI\\__EXPANSYS\\_Projects\\_HubDashboard\\SequelDashboardWeb.csproj",
         "projectName": "SequelDashboardWeb",
-        "projectPath": "C:\\Expansys\\Web Projects\\SequelDashboardWeb\\SequelDashboardWeb.csproj",
-        "packagesPath": "C:\\Users\\salmanb\\.nuget\\packages\\",
-        "outputPath": "C:\\Expansys\\Web Projects\\SequelDashboardWeb\\obj\\",
+        "projectPath": "D:\\_JordacheWD\\_WORK\\_LUCRARI\\__EXPANSYS\\_Projects\\_HubDashboard\\SequelDashboardWeb.csproj",
+        "packagesPath": "C:\\Users\\flori\\.nuget\\packages\\",
+        "outputPath": "D:\\_JordacheWD\\_WORK\\_LUCRARI\\__EXPANSYS\\_Projects\\_HubDashboard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\salmanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\flori\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.Data.SqlClient": {
               "target": "Package",
@@ -64,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

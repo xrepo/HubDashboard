@@ -85,3 +85,46 @@ C:\Expansys\Web Projects\SequelDashboardWeb\obj\Debug\netcoreapp3.1\staticwebass
 C:\Expansys\Web Projects\SequelDashboardWeb\obj\Debug\netcoreapp3.1\SequelDashboardWeb.dll
 C:\Expansys\Web Projects\SequelDashboardWeb\obj\Debug\netcoreapp3.1\SequelDashboardWeb.pdb
 C:\Expansys\Web Projects\SequelDashboardWeb\obj\Debug\netcoreapp3.1\SequelDashboardWeb.genruntimeconfig.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\appsettings.json
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.exe
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.deps.json
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.runtimeconfig.json
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.runtimeconfig.dev.json
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.pdb
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.Views.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\SequelDashboardWeb.Views.pdb
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.AssemblyInfoInputs.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.AssemblyInfo.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.csproj.CoreCompileInputs.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.RazorAssemblyInfo.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.RazorAssemblyInfo.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\staticwebassets\SequelDashboardWeb.StaticWebAssets.Manifest.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\staticwebassets\SequelDashboardWeb.StaticWebAssets.xml
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\scopedcss\bundle\SequelDashboardWeb.styles.css
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.TagHelpers.input.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.TagHelpers.output.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.RazorCoreGenerate.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\OrderDetail.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.RazorTargetAssemblyInfo.cache
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.RazorTargetAssemblyInfo.cs
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.Views.pdb
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.csproj.CopyComplete
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.dll
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.pdb
+D:\_JordacheWD\_WORK\_LUCRARI\__EXPANSYS\_Projects\_HubDashboard\obj\Debug\netcoreapp3.1\SequelDashboardWeb.genruntimeconfig.cache

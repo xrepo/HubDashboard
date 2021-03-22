@@ -8,22 +8,24 @@
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
+	<header class="border-bottom header text-muted">
+		<div class="container header-container">
+			<div class="header-left"><a asp-page="Index"><img src="~/img/brandpath.png" style="height:24px" /></a></div>
+			<div class="header-right">@DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")</div>
+		</div>
+	</header>
     <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+        <main role="main" class="pb-3">@RenderBody()</main>
     </div>
-
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2021 - Brandpath UK Ltd
+        <div class="container footer-container">
+			<div class="footer-left">&copy; 2021 - Brandpath UK Ltd</div>
+			<div class="footer-right"><a asp-page="Privacy">Privacy</a></div>
         </div>
     </footer>
-
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-
     @RenderSection("Scripts", required: false)
 </body>
 </html>

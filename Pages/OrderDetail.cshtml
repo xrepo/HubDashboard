@@ -11,9 +11,8 @@
                         ,"Tracking Number"
     };
 }
-
-<a asp-page="Index">Back to Dashboard</a>
-
+<a asp-page="Index" class="btn btn-light">Back to Dashboard</a>
+<br /><br />
     <div class="table">
         <table class="table table-bordered table-hover">
             <thead>
@@ -27,9 +26,7 @@
                         }
                     }
                 </tr>
-
             </thead>
-
             <tbody>
                 @{
                     foreach (var so in Model.SalesOrders)
